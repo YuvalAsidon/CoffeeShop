@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">בית קפה</string>
+    <string name="quantity">כמות</string>
+    <string name="order">הזמנה</string>
+    <string name="name">שם</string>
+    <string name="topping">תוספות</string>
+    <string name="whipped_cream">קצפת</string>
+    <string name="thank_you">"תודה! "</string>
+    <string name="total">"סה\"כ: $ "</string>
+    <string name="clientName">"שם: "</string>
+    <string name="whippedcream">"קצפת? "</string>
+    <string name="haschocolate">"שוקולד? "</string>
+    <string name="Quantity">"כמות: "</string>
+    <string name="chocolate">שוקולד</string>
+</resources>

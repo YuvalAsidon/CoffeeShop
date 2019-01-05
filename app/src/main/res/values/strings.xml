@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Coffee Shop</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="order">ORDER</string>
+    <string name="name">Name</string>
+    <string name="topping">TOPPING</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="total">Total: $</string>
+    <string name="clientName">Name: </string>
+    <string name="whippedcream">Add whipped cream? </string>
+    <string name="haschocolate">Add chocolate? </string>
+    <string name="Quantity">Quantity: </string>
+</resources>
