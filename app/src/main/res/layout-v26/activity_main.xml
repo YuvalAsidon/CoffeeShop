@@ -28,7 +28,7 @@
         <TextView
             android:id="@+id/topping"
             android:text="@string/topping"
-            style="@style/headers" />
+            style="@style/HeaderTextStyle" />
 
         <CheckBox
             android:id="@+id/whippedcream"
@@ -52,12 +52,12 @@
             android:clickable="true"
             android:focusable="true"
             android:paddingLeft="24dp"
-            android:text="Chocolate"
+            android:text="@string/chocolate"
             android:textSize="16sp" />
 
         <TextView
             android:id="@+id/quantity"
-            style="@style/headers"
+            style="@style/HeaderTextStyle"
             android:contentDescription="@string/quantity"
             android:text="@string/quantity"  />
 

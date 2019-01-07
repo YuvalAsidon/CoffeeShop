@@ -16,7 +16,7 @@
         <TextView
             android:id="@+id/topping"
             android:text="@string/topping"
-            style="@style/headers" />
+            style="@style/HeaderTextStyle" />
 
         <CheckBox
             android:id="@+id/whippedcream"
@@ -40,7 +40,7 @@
 
         <TextView
             android:id="@+id/quantity"
-            style="@style/headers"
+            style="@style/HeaderTextStyle"
             android:contentDescription="@string/quantity"
             android:text="@string/quantity" />
 
